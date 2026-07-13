@@ -2,16 +2,7 @@
 
 > English first. 中文版见后文。
 
-Software Engineering background, based in Shanghai and focused on reliable backend systems and applied LLM evaluation.
-
-## Career Focus
-
-- Backend Engineering / Java Backend
-- Applied LLM and RAG Evaluation
-- Test Development and Quality Engineering
-- Technical Solutions and System Implementation
-
-Location preference: **Shanghai, China**
+Software engineer based in Shanghai, building reliable backend systems, applied LLM evaluation tools, and reproducible engineering demos.
 
 ## Featured Projects
 
@@ -47,24 +38,11 @@ A native study-planning application with SwiftUI, Core Data, widgets, notificati
 - **Engineering:** Docker, GitHub Actions, automated testing, OpenAPI, Git
 - **Product:** React, SwiftUI, technical documentation, bilingual delivery
 
-## Current Goal
-
-I am looking for opportunities in Shanghai where I can contribute to backend engineering, AI application evaluation, test development, or technical solution delivery while continuing to strengthen production engineering skills.
-
 ---
 
 # 中文介绍
 
-软件工程专业背景，现主要在上海求职，关注可靠后端系统、LLM 应用与评测工程。
-
-## 求职方向
-
-- 后端开发 / Java 后端
-- LLM 应用与 RAG 评测
-- 测试开发与质量工程
-- 技术解决方案与系统实施
-
-求职地区：**中国上海**
+常驻上海的软件工程开发者，关注可靠后端系统、LLM 应用评测与可复现的工程项目。
 
 ## 重点项目
 
@@ -99,7 +77,3 @@ I am looking for opportunities in Shanghai where I can contribute to backend eng
 - **AI：** LLM 评测、知识库、提示设计、BLEU-4、本地模型工作流
 - **工程化：** Docker、GitHub Actions、自动化测试、OpenAPI、Git
 - **产品实现：** React、SwiftUI、技术文档、双语交付
-
-## 当前目标
-
-目前主要寻找上海地区的后端开发、AI 应用与评测、测试开发或技术解决方案岗位，并希望在实际业务中继续提升生产级工程能力。
