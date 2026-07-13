@@ -20,7 +20,7 @@ A cross-border payment, reconciliation, and synthetic compliance-processing sand
 
 ### 3. [FulfillCrew（智仓通）](https://github.com/Jeffhan789/FulfillCrew)
 
-A cloud-ready multi-agent fulfillment demonstrator that connects a React dashboard, FastAPI services, a Contract Net Protocol warehouse workflow, persistence, observability, WebSockets, and ML adapters with graceful offline fallbacks.
+A multi-agent fulfilment demonstrator that connects a React dashboard, FastAPI services, a Contract Net Protocol warehouse workflow, persistence, observability, WebSockets, and ML adapters with graceful offline fallbacks.
 
 `FastAPI` · `React` · `Multi-Agent Systems` · `PostgreSQL` · `Redis` · `Docker`
 
@@ -60,7 +60,7 @@ A native study-planning application with SwiftUI, Core Data, widgets, notificati
 
 ### 3. [FulfillCrew（智仓通）](https://github.com/Jeffhan789/FulfillCrew)
 
-一个面向云端部署的多智能体履约演示系统，将 React 看板、FastAPI 服务、基于合同网协议的仓库协作、持久化、可观测性、WebSocket 与支持离线降级的 ML 适配器组合起来。
+一个多智能体履约演示系统，将 React 看板、FastAPI 服务、基于合同网协议的仓库协作、持久化、可观测性、WebSocket 与支持离线降级的 ML 适配器组合起来。
 
 `FastAPI` · `React` · `多智能体系统` · `PostgreSQL` · `Redis` · `Docker`
 
